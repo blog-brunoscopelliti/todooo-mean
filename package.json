@@ -1,0 +1,17 @@
+{
+  "name": "todooo",
+  "version": "0.1.0",
+  "author": "Bruno Scopelliti",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-karma": "~0.8.2",
+    "karma-jasmine": "~0.2.0",
+    "karma-chrome-launcher": "~0.1",
+    "grunt-protractor-runner": "~0.2.4"
+  }
+}
